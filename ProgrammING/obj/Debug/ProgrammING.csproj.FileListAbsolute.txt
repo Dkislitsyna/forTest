@@ -1,0 +1,7 @@
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\bin\Debug\ProgrammING.exe.config
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\bin\Debug\ProgrammING.exe
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\bin\Debug\ProgrammING.pdb
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\obj\Debug\ProgrammING.csproj.AssemblyReference.cache
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\obj\Debug\ProgrammING.csproj.CoreCompileInputs.cache
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\obj\Debug\ProgrammING.exe
+C:\Users\79915\source\repos\ProgrammING\ProgrammING\obj\Debug\ProgrammING.pdb
